@@ -1,0 +1,97 @@
+
+h1{
+  text-align: center;
+  font-family: 'Ranchers', sans-serif;
+  font-size: 125px;
+  color: darkorange;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Lobster', sans-serif;
+  color: darkorange;
+}
+img{
+  float: left;
+  border:10px solid ghostwhite;
+  border-radius: 50%;
+}
+
+body  {
+  background-image: url( https://cdn.discordapp.com/attachments/798330150664011867/811322183997587496/surfing.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.eddie{
+  position: relative;
+  text-align: center;
+  color: darkorange;
+  padding-left: 200px;
+}
+
+.kelly{
+  position: relative;
+  text-align: center;
+  color: darkorange;
+  padding-left: 600px;
+}
+
+.sunny{
+  position: relative;
+  text-align: center;
+  color: darkorange;
+  padding-left: 1000px;
+}
+
+.bethany{
+  position: relative;
+  text-align: center;
+  color: darkorange;
+  padding-left: 1425px;
+}
+
+.myDiv{
+  font-family: 'Lobster', sans-serif;
+  color: darkorange;
+  font-size: 30px;
+}
+
+.eddiek{
+  font-family: 'Lobster', sans-serif;
+  position: absolute;
+  top: 150px;
+  left: 16%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+}
+
+.kellys{
+  font-family: 'Lobster', sans-serif;
+  position: absolute;
+  top: 150px;
+  left: 37%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+}
+
+.sunnyg{
+  font-family: 'Lobster', sans-serif;
+  position: absolute;
+  top: 150px;
+  left: 58%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+}
+
+.bethanyh{
+  font-family: 'Lobster', sans-serif;
+  position: absolute;
+  top: 150px;
+  left: 80.60%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+}
+
+
+
